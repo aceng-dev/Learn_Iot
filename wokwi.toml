@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = '.pio/build/acellDev/firmware.bin'
+elf = '.pio/build/acellDev/firmware.elf'
+diagram = 'diagram.json'
